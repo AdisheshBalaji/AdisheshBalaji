@@ -15,8 +15,9 @@ Feel free to reach out via:
 ### Languages known
 
 - C
-- LaTeX
 - Python
+- C++
+- Javascript
 
 
 
