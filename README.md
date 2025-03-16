@@ -10,6 +10,7 @@ Feel free to reach out via:
 
 - Email: [adishesh.balaji@gmail.com]
 - Instagram: @adishesh47
+- LinkedIn: https://www.linkedin.com/in/adishesh-balaji-444982289/
 
 ### Languages known
 
