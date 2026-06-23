@@ -2,7 +2,7 @@
 
 ## About Me
 -  AI Major @ IIT Hyderabad
--  Interested in Deep Learning, especially Computer Vision and NLP
+-  Interested in Machine Learning and Deep Learning, especially Computer Vision and Natural Language Processing.
 -  Dabbling in Software Development, Data Structures and Algorithms, MLOps and Data Engineering
 
 ## Connect With Me
