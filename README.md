@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=AdisheshBalaji&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ## Connect With Me
