@@ -3,7 +3,7 @@
 ## About Me
 -  AI Major @ IIT Hyderabad
 -  Interested in Deep Learning, especially Computer Vision and NLP
--  Currently exploring Software Development, Data Structures and Algorithms, MLOps and Data Engineering
+-  Dabbling in Software Development, Data Structures and Algorithms, MLOps and Data Engineering
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adishesh-balaji)
