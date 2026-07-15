@@ -5,12 +5,6 @@
 -  Interested in Machine Learning and Deep Learning, especially Computer Vision and Natural Language Processing.
 -  Dabbling in Software Development, Data Structures and Algorithms, MLOps and Data Engineering
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adisheshbalaji&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adisheshbalaji&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
 
 
 <p align="center">
